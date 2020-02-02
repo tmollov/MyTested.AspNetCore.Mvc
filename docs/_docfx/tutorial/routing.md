@@ -75,7 +75,7 @@ Create **"ShoppingCartRouteTest""** class and add the following test:
 
 ```c#
 [Fact]
-public void GetAddToCartActionShouldBeRoutedSuccessfuly()
+public void GetAddToCartActionShouldBeRoutedSuccessfully()
     => MyRouting
         .Configuration()
         .ShouldMap("/ShoppingCart/AddToCart/1")
