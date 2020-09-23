@@ -1,6 +1,6 @@
 # Test Configuration
 
-In this section we are going to examine the test configuration or the **"testsettings.json"** file we used to provide a license key for the library.
+In this section we are going to examine the test configuration or the **"testconfig.json"** file we used to provide a license key for the library.
 
 ## Startup class
 
